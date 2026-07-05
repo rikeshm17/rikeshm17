@@ -13,19 +13,13 @@
 # 🚀 About Me
 
 ```yaml
-Name: Rikesh
+Name: Rikesh Maharjan
 Country: Nepal 🇳🇵
-Education: Grade 11 Science Student
-Learning:
-  - React
-  - TypeScript
-  - HTML
-  - CSS
-  - JavaScript
-  - C Programming
+Education: +2 computer science student
+
 
 Interests:
-  - 💻 Coding
+ 
   - 🚗 Cars
   - 🏍 Motorcycles
   - 🌍 Travel
