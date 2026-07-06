@@ -1,3 +1,84 @@
+<div align="center">
+
+# 👋 Hey, I'm Rikesh!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Science+Student;Future+Software+Developer;Web+Developer;Car+%26+Moto+Enthusiast;Always+Learning+New+Things!" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Rikesh
+Country: Nepal 🇳🇵
+Education: Grade 11 Science Student
+
+Currently Learning:
+  - React
+  - TypeScript
+  - HTML
+  - CSS
+  - JavaScript
+  - C Programming
+
+Interests:
+  - 💻 Coding
+  - 🚗 Cars
+  - 🏍 Motorcycles
+  - 🌍 Traveling
+  - 📚 Reading
+  - 🎮 Gaming
+
+Goal:
+  Become a Full Stack Developer and build amazing web experiences.
+```
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vite,git,github,vscode,c,cpp,python,java,mysql,firebase&perline=8"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌟 What I'm Working On
+
+- 🌐 Full Stack Development
+- ⚛ React + TypeScript
+- 🎨 UI/UX Design
+- 📱 Responsive Websites
+- 🚀 Open Source Projects
+
+---
+
+# ⚡ Fun Facts
+
+- 🚗 I love anything that has an engine.
+- 💻 I enjoy creating beautiful websites.
+- 🌍 Traveling is on my bucket list.
+- 🎮 Gaming is my favorite way to relax.
+- ☕ My code runs on coffee and curiosity.
+
 ---
 
 # 📫 Connect With Me
@@ -40,12 +121,9 @@
 
 <div align="center">
 
-## *"First, solve the problem. Then, write the code."*  
-### — John Johnson
+> ### **"Dream in pixels. Build in code. Leave a legacy in commits."** 🚀
 
-<br>
-
-> **"Great software isn't built in a day. It's built one bug, one commit, and one breakthrough at a time."** 🚀
+*"Every expert was once a beginner who refused to quit."*
 
 </div>
 
@@ -53,7 +131,7 @@
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=120&section=footer"/>
 
